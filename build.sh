@@ -1,5 +1,5 @@
 cd /app
 
-npm i
+npm i --registry=https://registry.npmmirror.com
 
 npm run build
